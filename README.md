@@ -10,6 +10,7 @@ despachador que reparte el lote entre varios trabajadores.
 |Yilmar Mauricio Riascos Moreno | 202459662 | yilmar.riascos@correounivalle.edu.co |
 | Juan esteban perez ramirez | 202459486 | juan.perez.ramirez@correounivalle.edu.co |
 |Marlen Lizeth Estrada López | 202359494 | marlen.estrada@correounivalle.edu.co|
+| Scarllys del Valle Vallecilla Caicedo |202459608 | scarllys.vallecilla@correounivalle.edu.co|
 
 El informe está en [`docs/`](docs/).
 
@@ -53,6 +54,7 @@ En 02-motor.md, la seccion de stencils:
 
 ## Persona B - Reducciones: histograma, ecualizacion, Otsu y optimizacion de localidad
 
+# scarllys
 ### Que implementa
 
 - El histograma, la ecualizacion y el umbral de Otsu secuenciales.
